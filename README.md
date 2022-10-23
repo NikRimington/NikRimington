@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![@nikrimington's Holopin board](https://holopin.me/nikrimington)](https://holopin.io/@nikrimington)
+
 <!--
 **NikRimington/NikRimington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
